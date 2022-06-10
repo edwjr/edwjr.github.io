@@ -166,3 +166,26 @@ main {width: 100%;}
 .map {
     margin: 20px 0;
 }
+
+ul.social {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.social li {
+    flex: 1 1 35px;
+    margin: 5px;
+}
+
+ul.social li a {
+    text-align: center;
+    display: block;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+}
+
+ul.social li a:hover {opacity: .5;}
