@@ -166,6 +166,9 @@ main {width: 100%;}
 .map {
     margin: 20px 0;
 }
+section.foto-social {
+    flex: 1 1 100px;
+}
 
 ul.social {
     width: 100%;
