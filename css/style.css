@@ -165,6 +165,10 @@ main {width: 100%;}
 
 .portfolio {background-color: #FFF; width: 100%;}
 
+section.foto-social {
+    flex: 1 1 100px;
+}
+
 
 .contact {flex-direction: column;}
 
