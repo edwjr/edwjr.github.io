@@ -222,4 +222,4 @@ ul.social li a {
     transition: all .5s ease-in-out;
 }
 
-ul.social li a:hover {opacity: .5;}
+ul.social li a:hover {opacity: .1;}
