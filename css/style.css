@@ -200,3 +200,26 @@ footer { background-color: #141A28; }
     background-color: #141A28;
     box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, .15);
 }
+
+ul.social {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.social li {
+    flex: 1 1 35px;
+    margin: 5px;
+}
+
+ul.social li a {
+    text-align: center;
+    display: block;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+}
+
+ul.social li a:hover {opacity: .5;}
