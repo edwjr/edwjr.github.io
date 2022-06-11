@@ -231,7 +231,7 @@ main {width: 100%;}
 }
 
 .btn_social ul li:hover::before { transition:0.4s; top:0%; }
-.btn_social ul li a:hover       { color:#555555; }
+.btn_social ul li a:hover       { color:#E9F3FE; }
 /*App Social*/
 
 /*FOOTER*/
