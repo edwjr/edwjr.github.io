@@ -170,7 +170,7 @@ main {width: 100%;}
     margin: 20px 0;
 }
 
-.box-artigo   { width:100%; float:left; background:#fff; box-shadow: 1px 0px 1.2px 0px #e3e3e3; border-radius:3px; padding:1em; }
+.box-artigo   { width:100%; float:left; background:#E9F3FE ; box-shadow: 1px 0px 1.2px 0px #e3e3e3; border-radius:3px; padding:1em; }
 
 /*AppSocial*/
 .btn_social { 
